@@ -8,6 +8,9 @@ h1{
 h2{
     font-size: 40px;
 }
+h3{
+    color: orange;
+}
 p{
     color: dimgray;
 }
@@ -39,4 +42,9 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 800px;
+}
+.dream-area{
+    background-image: url("images/developer-portfolio/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
